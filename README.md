@@ -3,7 +3,10 @@ This is an application called Note Taker that can be used to write and save note
 
 GitHub: https://github.com/Pgturn68/Note-Taker
 
+Heroku: https://the-note-taking.herokuapp.com/
+
 ![note taker app](https://user-images.githubusercontent.com/78170157/118382318-cc886480-b5b9-11eb-8ad5-50966d0c759c.JPG)
+
 
 
 
