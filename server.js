@@ -44,7 +44,7 @@ app.delete("/api/notes/:id",(req,res)=>{
     res.send();
 });
 
-app.listen(Port,()=>{
+app.listen(PORT,()=>{
     console.log ("express is listening on port 3000");
 });
 
